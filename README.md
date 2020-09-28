@@ -8,6 +8,12 @@ And now I'm trying my best to translate some cool stuffs' documents into Chinese
 
 Hope everyone can learn things easily!
 
+ - Translations
+    - Redux工具包: [Redux Toolkit](https://github.com/DeerTeam/redux-toolkit-in-chinese)
+   
+ - Libraries
+    - A very niche UI: [VIPUI](https://github.com/VIPUI/VIPUI)
+
 <!--
 **mathxlee/mathxlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
